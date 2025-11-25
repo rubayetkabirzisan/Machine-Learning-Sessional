@@ -1,5 +1,6 @@
 # 🌟 Introduction to Supervised Learning  
-### *Machine Learning Lab – Day 1 (Beginner Friendly)*
+### *Machine Learning Sessional
+*
 This document provides a simple, clean introduction to key machine learning concepts suitable for the first day of a lab session. It covers **Supervised Learning**, **Regression**, **Model Selection**, **Generalization**, and the **Dimensions of a Supervised Learning Algorithm**.
 ## 📘 1. What is Supervised Learning?
 Supervised Learning is a type of machine learning where:
