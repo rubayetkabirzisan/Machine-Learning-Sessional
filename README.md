@@ -80,3 +80,8 @@ Amount of data, number of features, noise level.
 | **Model Selection** | Choosing best model | Cross-validation |
 | **Generalization** | Performance on unseen data | Test accuracy |
 | **Model Dimensions** | Characteristics of learning | Loss, complexity, GD |
+
+
+
+need to search for paper
+
