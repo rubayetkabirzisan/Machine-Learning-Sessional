@@ -3,14 +3,14 @@
 This repository proposes the implementation of selected research methodologies into practical machine learning systems.
 
 
-## 1️⃣ Stock Market Price Prediction
+## 1️⃣ Stock Market Price Prediction Using Machine Learning Techniques
 
 **Based on Paper:** [https://www.acseusa.org/journal/index.php/aijser/article/view/308](https://www.acseusa.org/journal/index.php/aijser/article/view/308)
 
 **Proposal:** Implement machine learning models described in the paper to predict stock market prices using historical financial data.
 
 
-## 2️⃣ AI-Based Resume Screening System
+## 2️⃣ An Intelligent Decision Support System For Recruitment: Resumes Screening And Applicants Ranking
 
 **Based on Paper:** [https://www.informatica.si/index.php/informatica/article/view/3356](https://www.informatica.si/index.php/informatica/article/view/3356)
 
