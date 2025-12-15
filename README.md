@@ -17,7 +17,7 @@ This repository proposes the implementation of selected research methodologies i
 **Proposal:** Build an intelligent resume screening system using transformer-based NLP models combined with graph neural networks for candidate-job matching.
 
 
-## 3️⃣ Heart Disease Prediction Using Machine Learning
+## 3️⃣ Heart Disease Prediction Using Machine Learning Algorithms: Performance Analysis
 
 **Based on Paper:** [https://ieeexplore.ieee.org/document/10561820](https://ieeexplore.ieee.org/document/10561820)
 
